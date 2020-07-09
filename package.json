@@ -1,0 +1,15 @@
+{
+  "name": "learn-workspace",
+  "version": "1.0.0",
+  "description": "Learn NodeJS workspace.",
+  "private": true,
+  "keywords": [],
+  "author": "PhatNguyen",
+  "license": "ISC",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
