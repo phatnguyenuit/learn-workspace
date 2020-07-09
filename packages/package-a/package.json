@@ -1,8 +1,13 @@
 {
-  "name": "package-a",
+  "name": "@phatnguyenuit/package-a",
   "version": "1.0.2",
   "description": "",
   "main": "index.js",
+  "repository" : {
+    "type" : "git",
+    "url": "https://github.com/phatnguyenuit/learn-workspace.git",
+    "directory": "packages/package-a"
+  },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
@@ -16,5 +21,5 @@
     "axios": "^0.19.2",
     "cross-env": "^7.0.2"
   },
-  "gitHead": "9c591953224da9fedf8c725b8a3486c9b285ddfa"
+  "gitHead": "2956f9de42b99f649f372a8609149d19a2d7b42a"
 }
