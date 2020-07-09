@@ -1,9 +1,11 @@
 {
   "name": "package-a",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
