@@ -1,10 +1,10 @@
 {
   "name": "@phatnguyenuit/package-b",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
-  "repository" : {
-    "type" : "git",
+  "repository": {
+    "type": "git",
     "url": "https://github.com/phatnguyenuit/learn-workspace.git",
     "directory": "packages/package-b"
   },
