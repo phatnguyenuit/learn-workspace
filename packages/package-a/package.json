@@ -20,6 +20,5 @@
   "dependencies": {
     "axios": "^0.19.2",
     "cross-env": "^7.0.2"
-  },
-  "gitHead": "58f3a30abd781ae27c4aedefe2200fb491e4b4b6"
+  }
 }
