@@ -19,5 +19,8 @@
   "license": "ISC",
   "dependencies": {
     "@phatnguyenuit/package-b": "^1.0.5"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.2"
   }
 }
